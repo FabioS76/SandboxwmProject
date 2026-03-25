@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: SandboxwmProject
+  gitServerName: FSGitHub
+  gitUrl: https://github.com/FabioS76
+  gitUsername: FabioS76
+  gitBranch: main
